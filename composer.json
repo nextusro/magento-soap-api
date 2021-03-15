@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=7.2",
-        "illuminate/contracts": "6.x",
-        "illuminate/support": "6.x"
+        "illuminate/contracts": "8.x",
+        "illuminate/support": "8.x"
     },
     "require-dev": {
         "guzzle/guzzle": "^3.7",
